@@ -1,0 +1,9 @@
+a,b,c
+d,"f",g
+"a
+b",f,e
+1,"@""@",q
+"""a""",!,","
+","",",q,words
+  this is a field with some spaces   , 1 ,	a tab here too
+"""",the previous field ,should have been parsed as a single double-quote
